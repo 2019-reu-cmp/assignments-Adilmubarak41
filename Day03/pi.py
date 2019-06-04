@@ -8,5 +8,5 @@ def srinivasa(k):
     """
 
 if __name__ == '__main__':
-    iterations = 1
+    iterations = 0.5
     print(srinivasa(iterations))
